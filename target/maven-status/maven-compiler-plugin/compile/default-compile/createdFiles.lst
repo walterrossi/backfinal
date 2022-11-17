@@ -1,0 +1,6 @@
+com\app\PorfotlioWalterRossi\exception\UserNotFoundException.class
+com\app\PorfotlioWalterRossi\services\EducationService.class
+com\app\PorfotlioWalterRossi\PorfotlioWalterRossiApplication.class
+com\app\PorfotlioWalterRossi\controller\EducationController.class
+com\app\PorfotlioWalterRossi\repository\EducationRespository.class
+com\app\PorfotlioWalterRossi\models\Education.class
